@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **python,full-stack web development**
 
-- 👩‍🎓 I'm a undergraduate at SLIIT City Uni Sri Lanka
+- 👩‍🎓 I'm an undergraduate at SLIIT City Uni Sri Lanka
 
 - 📫 How to reach me **shenalisanchala@gmail.com**
 
