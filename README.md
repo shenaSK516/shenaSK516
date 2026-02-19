@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Shenali Kumarasinghe</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shenask516&label=Profile%20views&color=0e75b6&style=flat" alt="shenask516" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shenask516&label=Profile%20views&color=0e75b6&style=flat" alt="shenask516" /> </p>
 
-- 🌱 I’m currently learning **Python,full-stack web development**
+- 🌱 I’m currently learning **python,full-stack web development**
+
+- 👩‍🎓 I'm a undergraduate at SLIIT City Uni Sri Lanka
 
 - 📫 How to reach me **shenalisanchala@gmail.com**
 
